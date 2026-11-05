@@ -1,0 +1,7 @@
+# OS junk
+Thumbs.db
+.DS_Store
+Desktop.ini
+# 本地临时
+_COMMIT_MSG.md
+*.tmp
